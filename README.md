@@ -1,1 +1,1 @@
-# Jr_PortPolio
+# jr-portfolio-boilerplate
